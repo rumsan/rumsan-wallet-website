@@ -16,7 +16,7 @@ class About extends Component {
     render() {
         return (
             <>
-                <section className="about-area ptb-100">
+                <section className="about-area ptb-100" id='aboutUs'>
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-lg-5 col-md-12">

@@ -6311,4 +6311,14 @@ Go Top CSS
 .lang-didebar a:last-child {
   background-color: #483e3e;
 }
+
+.company-logo img {
+  margin-top: 1rem;
+  width: auto;
+  height: 3rem;
+  margin-right: auto;
+  margin-left: auto;
+  -webkit-transition-duration: 500ms;
+  transition-duration: 500ms;
+}
 /*# sourceMappingURL=style.css.map */

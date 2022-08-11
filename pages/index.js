@@ -3,7 +3,9 @@ import Navbar from '../components/Layouts/Navbar';
 import MainBanner from '../components/DefaultHome/MainBanner';
 import Services from '../components/DefaultHome/Services';
 import About from '../components/DefaultHome/About';
-import OurWorks from '../components/DefaultHome/OurWorks';
+import Pricing from '../components/DefaultHome/Pricing';
+import ContactUs from '../components/DefaultHome/ContactUs/ContactForm';
+import Footer from '../components/DefaultHome/Footer';
 
 class Index extends Component {
     render() {
@@ -13,8 +15,9 @@ class Index extends Component {
                 <MainBanner/>
                 <Services/>
                 <About/>
-                <OurWorks/>
-
+                <Pricing/>
+                <ContactUs/>
+                <Footer/>
             </>
         );
     }

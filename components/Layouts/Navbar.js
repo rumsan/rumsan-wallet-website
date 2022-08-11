@@ -79,13 +79,13 @@ class Navbar extends Component {
                                     </li>
 
                                     <li className="nav-item">
-                                        <Link href="/about" activeClassName="active">
+                                        <Link href="/#aboutUs" activeClassName="active">
                                             <a className="nav-link">About us</a>
                                         </Link>
                                     </li>
 
                                     <li className="nav-item">
-                                        <Link href="#">
+                                        <Link href="#pricing">
                                             <a className="nav-link">
                                                 Pricing
                                             </a>
@@ -93,7 +93,7 @@ class Navbar extends Component {
                                     </li>
 
                                     <li className="nav-item">
-                                        <Link href="/contact" activeClassName="active">
+                                        <Link href="/#contactUs" activeClassName="active">
                                             <a className="nav-link">Contact Us</a>
                                         </Link>
                                     </li>
