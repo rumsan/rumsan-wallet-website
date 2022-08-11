@@ -24,20 +24,22 @@ class MainBanner extends Component {
                                 <div className="row">
                                     <div className="col-lg-6">
                                         <div className="main-banner-content">
-                                            <span>A Digital Agency</span>
-                                            <h1>We're a full-range digital agency.</h1>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <span>Rumsan Wallet</span>
+                                            <h1>White Label Mobile Wallet </h1>
+                                            <p>
+                                                Rumsan wallet is a secure white-label web and mobile wallet for Android, built in React Native. Features include biometrics, scan to pay and more.
+                                            </p>
 
-                                            <Link href="/contact">
-                                                <a className="btn btn-primary">Get Started</a>
+                                            <Link href="https://drive.google.com/file/d/1jHXh_PWN9uVpMjcn91QtrgVn2n-Afe7f/view">
+                                                <a className="btn btn-primary">Need A Wallet ?</a>
                                             </Link>
  
-                                            <Link href="/#play-video">
+                                            <Link href="https://drive.google.com/file/d/1jHXh_PWN9uVpMjcn91QtrgVn2n-Afe7f/view">
                                                 <a
                                                     onClick={e => {e.preventDefault(); this.openModal()}}
                                                     className="btn btn-secondary"
                                                 > 
-                                                    <i className="icofont-ui-play"></i> How it works
+                                                    Google Play
                                                 </a>
                                             </Link>
                                         </div>
@@ -45,83 +47,9 @@ class MainBanner extends Component {
 
                                     <div className="col-lg-6">
                                         <div className="banner-animation-image">
-                                            {/* Shape Image */}
-                                            <img 
-                                                src="/images/banner-shapes/bn-shape1.png" 
-                                                className="animate__animated animate__fadeInUp animate__delay-0.5s" 
-                                                alt="image" 
-                                            />
-                                        
-                                            <img 
-                                                src="/images/banner-shapes/bn-shape2.png" 
-                                                className="animate__animated animate__fadeInLeft animate__delay-0.5s" 
-                                                alt="image" 
-                                            />
-                                        
-                                            <img 
-                                                src="/images/banner-shapes/bn-shape3.png" 
-                                                className="animate__animated animate__fadeInDown animate__delay-0.5s" 
-                                                alt="image" 
-                                            />
-                                    
-                                            <img 
-                                                src="/images/banner-shapes/bn-shape4.png" 
-                                                className="animate__animated animate__fadeInDown animate__delay-0.5s" 
-                                                alt="image" 
-                                            />
-                            
-                                            <img 
-                                                src="/images/banner-shapes/bn-shape5.png" 
-                                                className="animate__animated animate__fadeInUp animate__delay-0.5s" 
-                                                alt="image" 
-                                            />
-                                    
-                                            <img 
-                                                src="/images/banner-shapes/bn-shape6.png" 
-                                                className="animate__animated animate__rollIn animate__delay-0.5s" 
-                                                alt="image" 
-                                            />
-                                    
-                                            <img 
-                                                src="/images/banner-shapes/bn-shape7.png" 
-                                                className="animate__animated animate__zoomIn animate__delay-0.5s" 
-                                                alt="image" 
-                                            />
-                                    
-                                            <img 
-                                                src="/images/banner-shapes/bn-shape8.png" 
-                                                className="animate__animated animate__fadeInLeft animate__delay-0.5s" 
-                                                alt="image" 
-                                            />
-                                
-                                            <img 
-                                                src="/images/banner-shapes/bn-shape9.png" 
-                                                className="animate__animated animate__fadeInUp animate__delay-0.5s" 
-                                                alt="image" 
-                                            />
-                                    
-                                            <img 
-                                                src="/images/banner-shapes/bn-shape10.png" 
-                                                className="animate__animated animate__fadeInDown animate__delay-0.5s" 
-                                                alt="image" 
-                                            />
-                                
-                                            <img 
-                                                src="/images/banner-shapes/bn-shape11.png" 
-                                                className="animate__animated animate__fadeInUp animate__delay-0.5s" 
-                                                alt="image" 
-                                            />
-                                    
-                                            <img 
-                                                src="/images/banner-shapes/bn-shape12.png" 
-                                                className="animate__animated animate__zoomIn animate__delay-0.5s" 
-                                                alt="image" 
-                                            />
-                                           
                                             {/* Main Image */}
                                             <img 
-                                                src="/images/banner-img1.png" 
-                                                className="main-pic animate__animated animate__fadeInUp animate__delay-0.5s" 
+                                                src="https://assets.rumsan.com/rumsan-group/wallet-rumsan-main-banner.png" 
                                                 alt="image" 
                                             />
                                         </div>

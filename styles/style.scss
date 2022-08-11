@@ -2452,8 +2452,17 @@ Services CSS
 }
 /* Service card one */
 .service-card-one {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
     margin-bottom: 40px;
     transition: $transition;
+    img{
+        width: 80px;
+        margin-bottom: 12px;
+    }
     i {
         width: 70px;
         height: 70px;
