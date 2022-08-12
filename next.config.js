@@ -6,7 +6,7 @@ module.exports = {
         loader:'akamai',
         path:"",
     },
-    basePath:"/nextjs-pages",
+    basePath:"/rumsan-wallet-website-pages",
     assetPrefix:"/nextjs-pages",
     sassOptions: {
         includePaths: [path.join(__dirname, 'styles')],
