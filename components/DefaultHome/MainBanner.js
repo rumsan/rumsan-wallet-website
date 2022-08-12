@@ -25,7 +25,7 @@ class MainBanner extends Component {
                                     <div className="col-lg-6">
                                         <div className="main-banner-content">
                                             <span>Rumsan Wallet</span>
-                                            <h1>White Label Mobile Wallet </h1>
+                                            <h1>White Label Mobile Wallet</h1>
                                             <p>
                                                 Rumsan wallet is a secure white-label web and mobile wallet for Android, built in React Native. Features include biometrics, scan to pay and more.
                                             </p>
@@ -49,7 +49,7 @@ class MainBanner extends Component {
                                         <div className="banner-animation-image">
                                             {/* Main Image */}
                                             <img 
-                                                src="https://assets.rumsan.com/rumsan-group/wallet-rumsan-main-banner.png" 
+                                                src="https://assets.rumsan.com/esatya/wallet-rumsan-main-banner.png" 
                                                 alt="image" 
                                             />
                                         </div>
