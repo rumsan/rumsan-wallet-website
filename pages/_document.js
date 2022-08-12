@@ -19,7 +19,7 @@ class MyDocument extends Document {
                         href="https://fonts.googleapis.com/css?family=Saira:100,200,300,400,500,600,700,800,900&display=swap" 
                         rel="stylesheet"
                     />
-                    <link rel="icon" type="image/png" href={`${NEXT_PUBLIC_FAVICON}/favicon.ico`}></link>
+                    <link rel="icon" type="image/png" href="/images/favicon.png"></link>
                 </Head>
                 <body>
                     <Main />
