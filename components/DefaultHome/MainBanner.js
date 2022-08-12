@@ -48,10 +48,7 @@ class MainBanner extends Component {
                                     <div className="col-lg-6">
                                         <div className="banner-animation-image">
                                             {/* Main Image */}
-                                            <img 
-                                                src="https://assets.rumsan.com/esatya/main-image.png" 
-                                                alt="image" 
-                                            />
+                                            <img src="https://assets.rumsan.com/esatya/main-image.png"/>
                                         </div>
                                     </div>
                                 </div>
