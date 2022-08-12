@@ -7,7 +7,7 @@ module.exports = {
         path:"",
     },
     basePath:"/rumsan-wallet-website-pages",
-    assetPrefix:"/nextjs-pages",
+    assetPrefix:"/rumsan-wallet-website-pages",
     sassOptions: {
         includePaths: [path.join(__dirname, 'styles')],
     },
