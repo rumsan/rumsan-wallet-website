@@ -6,8 +6,8 @@ module.exports = {
         loader:'akamai',
         path:"",
     },
-    basePath:"/rumsan-wallet-website",
-    assetPrefix:"/rumsan-wallet-website",
+    basePath:"/",
+    assetPrefix:"/",
     sassOptions: {
         includePaths: [path.join(__dirname, 'styles')],
     },
